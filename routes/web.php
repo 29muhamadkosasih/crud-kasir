@@ -6,7 +6,6 @@ use App\Http\Controllers\KasirController;
 use App\Http\Controllers\ManajerController;
 use App\Http\Controllers\AdminController;
 use App\Http\Controllers\LoginController;
-use App\Http\Controllers\RegisterController;
 
 /*
 |--------------------------------------------------------------------------

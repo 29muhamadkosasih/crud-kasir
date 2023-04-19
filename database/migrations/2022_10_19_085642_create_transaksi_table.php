@@ -22,6 +22,8 @@ return new class extends Migration
             $table->unsignedBigInteger('nama_pegawai');
             $table->timestamps();
             $table->foreign('nama_menus')->references('id')->on('menu');
+
+
         });
     }
 
